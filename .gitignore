@@ -1,0 +1,4 @@
+node_modules/
+- Ran Playwright code.txt
+full_agent_log.txt
+*.log
